@@ -1,0 +1,20 @@
+[
+  {
+    "id": "stanley-cranberry",
+    "date": "2026-11-21",
+    "name": "Gourde Stanley Quencher H2.0 – Cranberry",
+    "pitch": "Isotherme, avec poignée et paille. Parfaite au bureau, en voiture ou à la salle. L'idée cadeau de Noël qui plaît à tout le monde.",
+    "tag": "🎄 Idée cadeau",
+    "image": "img/stanley-cranberry.jpg",
+    "url": "https://www.amazon.fr/dp/B0GBXNGQT5?tag=topshoppingfr-21"
+  },
+  {
+    "id": "lego-f1-mercedes",
+    "date": "2026-11-20",
+    "name": "LEGO Speed Champions – F1 Mercedes-AMG W15",
+    "pitch": "267 pièces et une minifigurine de pilote. Le cadeau parfait pour les fans de F1, dès 10 ans.",
+    "tag": "🏎️ Jouets",
+    "image": "img/lego-f1-mercedes.jpg",
+    "url": "https://www.amazon.fr/dp/B0DHS9Y433?tag=topshoppingfr-21"
+  }
+]
