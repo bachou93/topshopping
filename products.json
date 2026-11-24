@@ -1,5 +1,23 @@
 [
   {
+    "id": "gta6-ps5",
+    "date": "2026-11-24",
+    "name": "Grand Theft Auto VI – PlayStation 5",
+    "pitch": "GTA 6 est enfin sorti : le jeu dont tout le monde parle, en version PS5. Le cadeau parfait pour les fans de jeux vidéo.",
+    "tag": "🎮 Jeux vidéo",
+    "image": "img/gta6-ps5.jpg",
+    "url": "https://www.amazon.fr/dp/B0GZW5D8YF?tag=topshoppingfr-21"
+  },
+  {
+    "id": "gta6-xbox",
+    "date": "2026-11-24",
+    "name": "Grand Theft Auto VI – Xbox Series X/S (code en boîte)",
+    "pitch": "La version Xbox Series X/S du jeu le plus attendu de l'année. Idéal à glisser sous le sapin.",
+    "tag": "🎮 Jeux vidéo",
+    "image": "img/gta6-xbox.jpg",
+    "url": "https://www.amazon.fr/dp/B0GZW3TCF7?tag=topshoppingfr-21"
+  },
+  {
     "id": "stanley-cranberry",
     "date": "2026-11-21",
     "name": "Gourde Stanley Quencher H2.0 – Cranberry",
