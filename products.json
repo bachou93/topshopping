@@ -1,5 +1,14 @@
 [
   {
+    "id": "ps5-slim",
+    "date": "2026-11-26",
+    "name": "Console PlayStation 5 – Édition Standard (modèle Slim)",
+    "pitch": "La console pour jouer à GTA 6, avec lecteur de disques et une manette DualSense. L'idée cadeau du Black Friday pour les gamers.",
+    "tag": "🎮 Black Friday",
+    "image": "img/ps5-slim.jpg",
+    "url": "https://www.amazon.fr/dp/B0CLT54ZNZ?tag=topshoppingfr-21"
+  },
+  {
     "id": "gta6-ps5",
     "date": "2026-11-24",
     "name": "Grand Theft Auto VI – PlayStation 5",
